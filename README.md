@@ -1,1 +1,1 @@
-# Projekti2b.github.io
+Netlify linkki: nellinurmilaukasprojekti2b.netlify.app
