@@ -1,1 +1,1 @@
-Netlify linkki: nellinurmilaukasprojekti2b.netlify.app
+Opintojakso Web-sovellusten kehittäminen Javascriptillä TO00BL10-3018. Projektin 2b tavoitteena luoda uusi versio projektin 1 ToDoListasta hyödyntäen JQuerya. Projektissa käytetty julkaisuun Netlifytä : nellinurmilaukasprojekti2b.netlify.app Linkki videoon: https://video.laurea.fi/media/Projekti2bJQuery/0_8s9d77ge
