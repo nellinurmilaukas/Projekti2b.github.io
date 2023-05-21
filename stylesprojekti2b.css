@@ -1,0 +1,55 @@
+
+body {
+  margin: 6;
+  min-width: 250px;
+}
+
+/* Kun klikataan tehtävää taustaväri muuttuu ja teksti yliviivaantuu */
+ul li.checked {
+  background: #f2b8ff;
+  color: #fff;
+  text-decoration: line-through;
+}
+
+/* Tyyli tehtävä listassa */
+ul li {
+  border-radius: 5px;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #939697;
+  cursor: pointer;
+  background-color: #c5e1e6;
+  height: 30px;
+  margin-bottom: 8px;
+  padding: 5px 10px;
+  display: flex;
+}
+
+/* Otsikon tyyli */
+h1 {
+  background-color: #9aecff;
+  padding: 30px 40px;
+  color: white;
+  text-align: center;
+}
+
+/* Input kentän tyyli */
+input {
+  margin: 6;
+  border: none;
+  border-radius: 5;
+  width: 75%;
+  padding: 10px;
+  float: left;
+  font-size: 16px;
+}
+
+/* Tyyli nappulaan */
+#btn {
+  background-color: rgb(255, 188, 243); 
+  border: none; /*ei reunuksia*/
+  color: white; /* valkoinen teksti */
+  padding: 12px 16px; /* padding */
+  font-size: 16px; /* fontin koko */
+  cursor: pointer; /* hiiren kulku päällä */
+}
